@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdulhaseeboff
-- 🌱 I’m currently learning marketing, content creation and coding
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, My name is Abdul Haseeb.
+- 🌱 My education and work revolves around tech and finance.
+- 💞️ Let's code.
 - 📫 How to reach me work.abdulhaseeb@gmail.com
 
 <!---
