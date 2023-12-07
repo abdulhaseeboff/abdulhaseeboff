@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Abdul Haseeb.
-- 🌱 My education and work revolves around tech and finance.
-- 💞️ Let's code.
+- 🌱 My education and work revolve around finance, marketing and tech.
 - 📫 Reach me at work.abdulhaseeb@gmail.com
 
 <!---
